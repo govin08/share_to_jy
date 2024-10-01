@@ -43,6 +43,7 @@ elif 선중지출 > 선중결제:
 
 # 스크립트 실행 결과
 
+# PS D:\GitHub\share_to_jy> python .\2409_soccer\soccer.py
 # 종원결제 : 48000
 # 선중결제 : 74500
 # 결제총합 : 122500
